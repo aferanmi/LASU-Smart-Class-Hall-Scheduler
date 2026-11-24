@@ -1,0 +1,13 @@
+
+# Database credentials
+database.php
+.env
+.env.*
+
+# Private configuration
+config.local.php
+
+# Backups and logs
+*.bak
+*.log
+*.backup
